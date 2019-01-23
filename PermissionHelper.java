@@ -1,4 +1,3 @@
-package com.extractsoftpvt.myfence.securityapp.helper;
 
 import android.Manifest;
 import android.app.Activity;
@@ -11,9 +10,6 @@ import android.os.Build;
 import android.provider.Settings;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
-
-import com.extractsoftpvt.myfence.securityapp.R;
-import com.extractsoftpvt.myfence.securityapp.common.Common;
 
 import java.util.ArrayList;
 import java.util.HashMap;
